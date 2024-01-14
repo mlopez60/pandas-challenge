@@ -1,5 +1,6 @@
 # pandas-challenge
 Pandas challenge
+
 This challenge tested my abilities with Pandas. 
 While nothing was too complicated, we had to deal with a lot of DataFrame manipulation and if I wasn't too careful, things could get mixed up. 
 
@@ -9,6 +10,7 @@ My biggest obstacle was when working on the "Scores by School Spending" section.
 
 
 PyCity Schools Analysis
+
 Overall, test scores are low across all schools wiht an overall passing % of roughly 65%
 
 More students are passing reading vs math, 10% more students on average pass reading vs pass math.
